@@ -4,7 +4,7 @@ A dynamic and automated KPI tracking solution designed to streamline business pe
 ## Project Overview
 This project simplifies business performance monitoring by creating an interactive dashboard that automates KPI tracking and provides actionable insights. The solution reduces manual reporting by 50% and empowers executives with real-time metrics visualization.
 
-###Key Highlights 
+### Key Highlights 
 * Dynamic Dashboard: Designed an interactive Power BI dashboard for real-time performance tracking.
 * Data Automation: Automated data flow from SQL to Power BI, eliminating manual reporting tasks.
 * Impactful Insights: Provided executives with key performance metrics to make informed decisions.
